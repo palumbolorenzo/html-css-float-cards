@@ -1,0 +1,84 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.titolo {
+    text-align: center;
+    color: rgb(255, 55, 88);
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+img {
+    width: 90px;
+    float: left;
+    margin-right: 10px;
+}
+
+.card-1 {
+    background-color: rgb(19, 16, 33);
+    color: white;
+    font-size: small;
+    float: left;
+    width: calc(33.3% - 1.5rem);
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+.card-2 {
+    background-color: rgb(19, 16, 33);
+    color: white;
+    font-size: small;
+    float: left;
+    width: calc(33.3% - 1.5rem);
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+.card-3 {
+    background-color: rgb(19, 16, 33);
+    color: white;
+    font-size: small;
+    float: left;
+    width: calc(33.3% - 1.5rem);
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+.card-4 {
+    background-color: rgb(19, 16, 33);
+    color: white;
+    font-size: small;
+    float: left;
+    width: calc(33.3% - 1.5rem);
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+.card-5 {
+    background-color: rgb(19, 16, 33);
+    color: white;
+    font-size: small;
+    float: left;
+    width: calc(33.3% - 1.5rem);
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+.card-6 {
+    background-color: rgb(19, 16, 33);
+    color: white;
+    font-size: small;
+    float: left;
+    width: calc(33.3% - 1.5rem);
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+a {
+    color: rgb(32, 114, 255);
+}
