@@ -8,6 +8,11 @@
     color: rgb(255, 55, 88);
 }
 
+.testo {
+    text-align: center;
+    padding-top: 30px;
+}
+
 .container {
     max-width: 900px;
     margin: auto;
